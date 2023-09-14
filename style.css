@@ -2,12 +2,12 @@
     display: flex;
     justify-content: end;
     align-items: end;
-    word-spacing: 1rem;
+    word-spacing: 2rem;
 }
 a{
-    color: red;
+    color: dodgerblue;
 }
-.header{
+.heading{
     text-align: center;
     color: hotpink;
 
