@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    word-spacing: 1rem;
+}
+a{
+    color: red;
+}
+h1, .p{
+    text-align: center;
+    color: hotpink;
+
+}
+.card{
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+}
